@@ -1,0 +1,3 @@
+org\ws\exemplo\bo\PessoaBO.class
+org\ws\exemplo\ws\PessoaWS.class
+org\ws\exemplo\model\Pessoa.class
