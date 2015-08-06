@@ -1,2 +1,2 @@
 # ws-exemplo
-JAX-WS exemplo with Glassfish Metro
+JAX-WS exemplo com Glassfish Metro
